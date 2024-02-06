@@ -15,19 +15,6 @@ function V=covnw(data,nlag,demean)
 % OUTPUTS:
 %   V      - A K by K covariance matrix estimated using Newey-West (Bartlett) weights
 %   
-% COMMENTS:
-%
-% EXAMPLES:
-%   Simulate an AR(1)
-%       y = armaxfilter_simulate(1000,0,1,.9);
-%   Newey-West covariance with automatic BW selection
-%       lrcov = covnw(y)
-%   Newey-West covariance with 10 lags
-%       lrcov = covnw(y, 10)
-%   Newey-West covariance with 10 lags and no demeaning
-%       lrcov = covnw(y, 10, 0)
-%
-% See also COVVAR
  
 % Copyright: Kevin Sheppard
 % kevin.sheppard@economics.ox.ac.uk
