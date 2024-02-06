@@ -12,8 +12,8 @@ This folder contains:
 
 ----> For a demon over real-world time-series please launch the following scripts:
 
--1- delay_wl.xlsx excel file of the delay (in msec) time-series gathered from the W.iLab.1 FED4FIRE+ testbed. Each column provides the delay measurements of each different link; the first two rows of each link depict the nodes of each link. 
+-1- delay_wl.xlsx: excel file  that provides the the delay values (in msec) of 27 links (over 10 nodes)  from the W.iLab.1 FED4FIRE+ testbed. Each column provides the delay measurements of each different link; the first two rows of each column present the nodes for which each link is described. 
 
--2- 
+-2- real_data.m contains an execution of RCPD2 over real measurements
 
 [1] Skaperas, Sotiris, Lefteris Mamatas, and Arsenia Chorti. "Real-time video content popularity detection based on mean change point analysis." IEEE Access, vol. 7, 2019.
