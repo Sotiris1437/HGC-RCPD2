@@ -5,15 +5,7 @@ ani1 = 'delay_wl.xlsx';
 node = xlsread(ani1);
 [rows columns] = size(node);
 %%
-A = 0;
 CP2 = [];
-Cp1 = [];
-Cp11 = [];
-CP1 = [];
-H00 = 0;
-H11 = 0;
-H000 = 0;
-H111 = 0;
 for j = 1
 figure(j)    
 Xt = node(1:9500,j);
