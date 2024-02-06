@@ -10,9 +10,9 @@ This folder contains:
 
 -2- armagarch.m contains an execution of RCPD2 of RCPD2 algorithm over ARMA-GARCH generated time-series, assuming several ARMA-GARCH parameters.
 
-----> For a demon over real-world time-series please launch the following scripts:
+----> For a demo over real-world time-series please launch the following scripts:
 
--1- delay_wl.xlsx: excel file  that provides the the delay values (in msec) of 27 links (over 10 nodes)  from the W.iLab.1 FED4FIRE+ testbed. Each column provides the delay measurements of each different link; the first two rows of each column present the nodes for which each link is described. 
+-1- delay_wl.xlsx: excel file  that provides the delay values (in msec) of 27 links (over 10 nodes)  from the W.iLab.1 FED4FIRE+ testbed. Each column provides the delay measurements of each different link; the first two rows of each column present the nodes for which each link is described. 
 
 -2- cpSigr.m contains an execution of RCPD2 over the real measurements.
 
