@@ -4,7 +4,7 @@ This folder contains:
 
 ============================ Matlab codes =======================================
 
-----> For a demon please launch the following scripts:
+----> For a demo please launch the following scripts:
 
 -1- LN.m contains an execution of RCPD2 algorithm across time-series generated through Log-Normal distribution, assuming several LN parameters.
 
