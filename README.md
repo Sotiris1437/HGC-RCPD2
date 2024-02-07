@@ -18,6 +18,8 @@ This folder contains:
 
 -3- rssi_cl.xlsx: excel file  that provides the RSSI values (in msec) of 27 links (over 22 nodes)  from the CityLab FED4FIRE+ testbed. Each column provides the RSSI measurements of each different link; the first two rows of each column present the nodes for which each link is described.
 
--4- cpSigr.m contains an execution of RCPD2 over the real measurements.
+-4- plr_cl.xlsx: excel file  that provides the PLR values (in msec) of 27 links (over 22 nodes)  from the CityLab FED4FIRE+ testbed. Each column provides the RSSI measurements of each different link; the first two rows of each column present the nodes for which each link is described.
+
+-5- cpSigr.m contains an execution of RCPD2 over the real measurements.
 
 [1] Skaperas, Sotiris, Lefteris Mamatas, and Arsenia Chorti. "Real-time video content popularity detection based on mean change point analysis." IEEE Access, vol. 7, 2019.
