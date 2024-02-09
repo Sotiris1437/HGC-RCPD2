@@ -4,7 +4,7 @@ This folder contains:
 
 --- the matlab codes of the heuristic GAK-based clustering (HGA). HGA is a heuristic clustering approach, based on the GAK-similarity measure and kmeans clustering. 
 
-============================ Datasets =======================================
+============================ Datasets ============================
 
 -1- delay_wl.xlsx: excel file  that provides the delay values (in msec) of 27 links (over 10 nodes)  from the W.iLab.1 FED4FIRE+ testbed. Each column provides the delay measurements of each different link; the first two rows of each column present the nodes for which each link is described. 
 
@@ -14,7 +14,7 @@ This folder contains:
 
 -4- plr_cl.xlsx: excel file  that provides the PLR values (in msec) of 27 links (over 22 nodes)  from the CityLab FED4FIRE+ testbed. Each column provides the RSSI measurements of each different link; the first two rows of each column present the nodes for which each link is described.
 
-============================ Matlab codes =======================================
+============================ Matlab codes ============================
 
 ----> For a demo of RCPD2 please launch the following scripts:
 
